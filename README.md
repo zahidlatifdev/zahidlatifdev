@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zahidlatifdev](https://github.com/zahidlatifdev)
 
-- 💬 Ask me about **JavaScript ,React, Php, Laravel**
+- 💬 Ask me about **JavaScript ,React, Nextjs, MERN Stack, Php, Laravel**
 
 - 📫 How to reach me **zahidlatif.dev@gmail.com**
 
