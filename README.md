@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahid Latif</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working at [eDesk Inc](https://edesk.io/)
+- 🔭 I’m currently working at [eDesk Inc](https://www.linkedin.com/company/edesk-inc/)
 
 - 🌱 I’m currently exploring **Advanded Web Technologies**
 
