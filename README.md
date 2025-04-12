@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Advanded Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zahidlatifdev](https://github.com/zahidlatifdev)
+- 👨‍💻 All of my public projects are available at [https://github.com/zahidlatifdev](https://github.com/zahidlatifdev)
 
 - 💬 Ask me about **JavaScript ,React, Nextjs, MERN Stack, Php, Laravel**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itxzahidrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itxzahidrajput" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/itxzahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itxzahid/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/itxzahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahidlatifdev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
