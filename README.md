@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Fiverr-4.9%20%C2%B7%20Level%202-1DBF73?style=for-the-badge" alt="Fiverr Level 2" />
 </a>
 <a href="https://zahidlatif.dev/#contact">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%2C%20contract%2C%20job-contract-0B0C0E?style=for-the-badge" alt="Open to freelance, contract, and job-contract work" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%20%26%20contract-0B0C0E?style=for-the-badge" alt="Open to freelance and contract work" />
 </a>
 
 </div>
@@ -187,7 +187,7 @@ I build React and Next.js frontends, Node.js and Python backends, React Native a
 
 <br /><br />
 
-Open to freelance, contract, and job-contract work. Usually reply within a day.
+Open to freelance and contract work. Usually reply within a day.
 
 </div>
 
