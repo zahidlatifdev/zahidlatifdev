@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Fiverr-4.9%20%C2%B7%20Level%202-1DBF73?style=for-the-badge" alt="Fiverr Level 2" />
 </a>
 <a href="https://zahidlatif.dev/#contact">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20select%20freelance%20%26%20contract-0B0C0E?style=for-the-badge" alt="Availability" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20freelance%2C%20contract%2C%20job-contract-0B0C0E?style=for-the-badge" alt="Open to freelance, contract, and job-contract work" />
 </a>
 
 </div>
@@ -50,8 +50,8 @@ I build React and Next.js frontends, Node.js and Python backends, React Native a
       <p>Fiverr · 49 reviews · Level 2</p>
     </td>
     <td width="25%" align="center">
-      <h3>~100</h3>
-      <p>Freelance clients since 2020</p>
+      <h3>~50</h3>
+      <p>Freelance projects since 2020</p>
     </td>
   </tr>
 </table>
@@ -175,10 +175,19 @@ I build React and Next.js frontends, Node.js and Python backends, React Native a
 <a href="https://x.com/zahidlatifdev">
   <img src="https://img.shields.io/badge/X-@zahidlatifdev-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+<a href="https://medium.com/@zahidlatifdev">
+  <img src="https://img.shields.io/badge/Medium-zahidlatifdev-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://dev.to/zahidlatifdev">
+  <img src="https://img.shields.io/badge/DEV-zahidlatifdev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" />
+</a>
+<a href="https://bugcrowd.com/h/zahidlatifdev">
+  <img src="https://img.shields.io/badge/Bugcrowd-zahidlatifdev-F26822?style=for-the-badge" alt="Bugcrowd" />
+</a>
 
 <br /><br />
 
-Open to select freelance and contract work. Usually reply within a day.
+Open to freelance, contract, and job-contract work. Usually reply within a day.
 
 </div>
 
